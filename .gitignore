@@ -23,3 +23,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+code/07-sending-a-post-request/node_modules
+code/07-sending-a-post-request/package-lock.json
+package-lock.json
+.gitignore
